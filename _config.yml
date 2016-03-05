@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7831541
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#422816'
+    - '#E04180'
+    - '#AC3766'
+    - '#6D665C'
+    - '#A47742'
+  rhythmicContrast: 0.9390681
+typography_spectrum: 0.3727598
+name: Westernsydneywanderers
