@@ -1,26 +1,26 @@
-color:
-  saturation: 0.7831541
-  brandStrength: 1
-  rhythmicContrast: 0.9390681
-  brandColors:
-    - '#422816'
-    - '#E04180'
-    - '#AC3766'
-    - '#6D665C'
-    - '#A47742'
-  lightness: 1
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#261D20'
+    - '#8A8985'
+    - '#902431'
+    - '#EFC2A2'
+  rhythmicContrast: 1
 typography_spectrum: 0.3727598
+layout_spectrum: 1
 name: Westernsydneywanderers
