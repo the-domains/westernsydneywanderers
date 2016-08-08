@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.3853047
 color:
   saturation: 1
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#902431'
     - '#EFC2A2'
   rhythmicContrast: 1
-typography_spectrum: 0.3853047
-layout_spectrum: 1
+layout_spectrum: 0.2204301
 name: Westernsydneywanderers
